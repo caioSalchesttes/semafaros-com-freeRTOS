@@ -11,4 +11,5 @@ com intervalo de 1 segundo entre elas.
 
 ## Imagem
 
-https://github.com/caioSalchesttes/semafaros-com-freeRTOS
+<img width="1130" height="328" alt="Captura de tela de 2025-08-29 20-04-43" src="https://github.com/user-attachments/assets/f06ca542-e54f-4943-94ea-15d052e67f4b" />
+
